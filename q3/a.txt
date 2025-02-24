@@ -1,0 +1,11 @@
+### Variables and Parameters of the Lorenz System in Fluid Dynamics
+
+#### **Variables:**
+- **x (Convective Motion Intensity):** Represents the rate of convective flow, describing how much warm air rises and cool air sinks.
+- **y (Temperature Difference Between Ascending and Descending Air Currents):** Measures the temperature difference between the rising hot fluid and the descending cold fluid.
+- **z (Deviation from the Linear Temperature Profile):** Represents the deviation of the vertical temperature profile from the equilibrium state.
+
+#### **Parameters:**
+- **σ (Prandtl Number):** Related to the viscosity and thermal diffusivity of the fluid. It influences how heat and momentum diffuse through the system.
+- **ρ (Rayleigh Number):** Represents the temperature difference between the top and bottom of the fluid layer and determines the onset of convection.
+- **β (Geometric Factor):** Related to the aspect ratio of the convection cell and affects the vertical structure of the convective motion.
